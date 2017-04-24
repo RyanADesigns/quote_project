@@ -35,9 +35,9 @@ input {
   opacity: 0;
   transition: 0.5s ease-in; 
   position: absolute;
-  left: 15rem;
+  left: 7%;
   width: 50rem;
-  height: 5rem;
+  height: 10rem;
   font-size: 3rem;
   text-align: center;
 }
